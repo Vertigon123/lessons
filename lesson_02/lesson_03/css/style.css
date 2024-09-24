@@ -1,0 +1,72 @@
+/* Cкидання стилів */
+@import url("reset.css");
+
+
+
+
+/* Мої класи */
+
+/* 
+1. big-title 
+2. title2
+3. text
+4. text span
+5. item
+6. #link-cave / #link-tustan / #link-kamin / #link-ozero
+7. new-item2. 
+8. vstup
+9. text2 (нижня частина тексту)
+10. midl-title
+11. low-title
+*/
+
+* {
+    color: rgb(0, 0, 0);
+}
+
+div {
+    color: brown;
+}
+
+.text2+p {
+    color: blue;
+}
+
+.big-title {
+    color: blue;
+}
+
+.title2 {
+    color: coral;
+}
+
+.vstup {
+    color: crimson;
+}
+
+#link-cave,
+#link-tustan,
+#link-kamin,
+#link-ozero {
+    color: rgb(8, 176, 14);
+}
+
+.text2 {
+    color: rgb(168, 14, 78);
+}
+
+.text span {
+    color: darkturquoise;
+}
+
+.text2 {
+    color: maroon;
+}
+
+p {
+    color: rgb(93, 93, 47);
+}
+
+.low-title {
+    color: cyan;
+}
