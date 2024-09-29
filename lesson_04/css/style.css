@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,500,700&display=swap");
+
+/* Підключення шрифтів */
+@import url("fonts.css");
+
+/* Cкидання стилів */
+@import url("reset.css");
+
+
+.big-title {
+    font-family: "Work Sans", sans-serif;
+    color: #132238;
+    font-size: 38px;
+    line-height: 50px;
+    font-style: normal;
+    font-weight: 600;
+    /* color: rgba(0, 0, 255, 0.501);
+    text-align: center;
+    text-shadow: 3px 4px 3px #999; */
+}
+
+.block {
+    font-family: "Work Sans", sans-serif;
+    color: #556070;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.text {
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #556070;
+    /* text-align: left; */
+}
+
+span {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 255, 0.615);
+    text-decoration-line: line-through;
+}
+
+.big-title2 {
+    font-size: 50px;
+    font-weight: 500;
+    color: #091133;
+}
+
+.block2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #505F98;
+}
+
+.about {
+    font-family: "DMSans", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    color: #474464;
+}
+
+
+.big-title3 {
+    color: #1E1B39;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 95px;
+
+}
+
+
+
+.biography-title {
+    font-family: "Work Sans", sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    font-style: normal;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.874);
+    text-align: center;
+    text-shadow: 3px 4px 3px #999;
+    text-decoration: underline;
+    text-decoration-color: rgba(214, 24, 14, 0.67);
+    text-decoration-style: wavy;
+
+}
+
+.biography-title2 {
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration-line: line-through;
+}
+
+
+.biography {
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+}
+
+
+.composition-and-name {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+.composition-and-name-title {
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    font-style: normal;
+    font-weight: 450;
+    text-shadow: 5px 5px 4px #999999d6;
+}
+
+
+.video {
+    color: rgba(216, 5, 5, 0.865);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(39, 11, 198);
+}
+
+img {
+    width: 200px;
+}
+
+.videotext {
+    color: rgba(255, 0, 0, 0.728);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(39, 11, 198);
+    text-shadow: 5px 5px 10px rgba(5, 0, 0, 0.953);
+}
+
+.content {
+    font-family: "Work Sans", sans-serif;
+    text-decoration-line: underline;
+    color: rgba(21, 173, 224, 0.648);
+    text-shadow: 5px 5px 10px rgba(5, 0, 0, 0.953);
+}
+
+
+
+footer {
+    font-family: "Work Sans", sans-serif;
+    color: #e9560d;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-shadow: 50px 50px 50px #e9560d;
+    background-color: #2cd332;
+}
